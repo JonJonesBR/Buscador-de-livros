@@ -62,7 +62,7 @@ Siga os comandos abaixo no Termux (copie e cole):
 
    > 💡 Exemplo de uso:  
    > ```  
-   > Título: Harry Potter  
+   > Título: Dom Casmurro  
    > Idioma: s  
    > Tipo de arquivo: pdf  
    > ```  
